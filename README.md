@@ -17,11 +17,4 @@
 ---
 
 ### 🎀 Try My Project!!
-- [Photobooth Website (React)](https://github.com/YOURUSERNAME/photobooth-project)
-- [Daily Expense Tracker Template](https://github.com/YOURUSERNAME/expense-tracker)
-- [AI + Finance Notebook](https://github.com/YOURUSERNAME/finance-ai-notes)
-
----
-
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+- [The Photobooth Website]([https://github.com/YOURUSERNAME/photobooth-project](https://awksrj.github.io/web-photobooth-0/#/home))
