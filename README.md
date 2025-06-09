@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🫧🐠 Hoàng Ngân (a.k.a Leah) 
 
-<!--
-**nganngh/nganngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ✨ About Me
+- 🎓 I'm currently pursuing a degree in Computer Science (with a minor in Economics) at University of Massachusetts Amherst.
+- 💼 Recently developed a ✨ super cute ✨ photobooth website with one of my classmate, Yen Do.
+- ✈️ I have been to 20 countries for the past 20 years in life.
+- ☕ Matcha • 📸 Photo • 🧮 Baking • 🌏 Traveling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect with me!
+- [LinkedIn](https://www.linkedin.com/in/nghoangngan)
+- [Gmail](mailto:nhnguyen@umass.edu)
+
+---
+
+### 🎀 Try My Project!!
+- [Photobooth Website (React)](https://github.com/YOURUSERNAME/photobooth-project)
+- [Daily Expense Tracker Template](https://github.com/YOURUSERNAME/expense-tracker)
+- [AI + Finance Notebook](https://github.com/YOURUSERNAME/finance-ai-notes)
+
+---
+
+### 📊 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
